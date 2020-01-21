@@ -14,7 +14,7 @@ The usability test is conducted in a residence hall with a minimal setup of seat
 
 #### The link to your online survey (UT materials), share the survey with the instructor
 
-https://forms.gle/ix6VQEpEE572QFjt9
+The link to my online survey on Google Forms can be fine [here](https://forms.gle/ix6VQEpEE572QFjt9).
 
 #### The link to your pilot UT video (e.g., youtube or google drive)
 
