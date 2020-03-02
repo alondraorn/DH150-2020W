@@ -32,3 +32,10 @@ The font is Lato, which is a sans serif font that is generally easy to read. I t
 #### One image with the wireflow with graphic design
 
 #### Link to the interactive prototype or embed window that shows the prototype. If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes. 
+
+From some user feedback, they felt that the bookmark and reserve buttons were too crowded, the color scheme could be a little less flat, and the contact pages seemed confusing at the end. I first changed the bookmark and reserve buttons to links. The buttons were clunky and I could achieve a similar effect but in a neater way. The color contrast also was not good, so by changing the buttons to underlined text, users received it better. I also added some accents of blue to break up all the orange and brown, and I feel that the blue goes well with these colors. Finally, I moved the contact slides to the beginning, since the user felt that the end of the search should be the end of the prototype. 
+
+New version: 
+Old version: 
+https://projects.invisionapp.com/prototype/ck729mv5p002xna01f3k06q6t/play (interactive)  
+https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t (slides)
