@@ -16,6 +16,7 @@ C) Using the help center page as a guide for forming search queries.
 D) Search for a harry potter book using the field limit of your option (there is also autosuggestion)  
 - i) Refine the search 
 - ii) Reserve or bookmark a book.  
+
 E) Manage your account.
 - i) Renew books.
 
