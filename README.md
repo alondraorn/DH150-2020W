@@ -32,9 +32,13 @@ In the end, I managed to learn the user's motivations for going to libraries and
 Personas are archetypical users whose goals and personality characteristics represent the needs of target users of the design. Each persona has an empathy map, which is a visualization used to articulate what a user says, thinks, does, feels, and works towards. Scenarios define when, where, and how the story of the persona takes place. It tracks the behavior and thoughts of the user as a sequence of events (journey map). I created three personas and scenarios based on target users of the library website and gave them each empathy maps, scenarios, and journey maps. Each user has a specific goal and improved features of the library website can help them achieve them.  
 [Read more about the Personas + Scenarios](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment5.md)
 
-Example Persona | Example Scenario
------------|-------------
-![Example Persona](https://user-images.githubusercontent.com/52383057/74217143-81b3ca80-4c5b-11ea-9b4b-9253cadfd59b.png)|![Example Scenario](https://user-images.githubusercontent.com/52383057/74217179-9abc7b80-4c5b-11ea-88d3-00ccc48f5002.png)
+Example Persona | Example Journey Map
+-----------|-----------
+![Example Persona](https://user-images.githubusercontent.com/52383057/74217143-81b3ca80-4c5b-11ea-9b4b-9253cadfd59b.png)|![Example Journey Map](https://user-images.githubusercontent.com/52383057/74217179-9abc7b80-4c5b-11ea-88d3-00ccc48f5002.png)
+
+Example Scenario |
+-----------|
+Kevin is an elementary school student who loves to watch movies with his parents. He has recently watched the first Harry Potter film and wants to read the Harry Potter books. He goes to the library with his parents to search for the first Harry Potter book. He misspells Harry Potter as Hairy Potter, but he does not catch his own mistake. Since it is spelled wrong, he doesn’t obtain any search results, but Kevin is confused. He has to ask his father to help him with the search and they check out the first book together. Kevin comes back two weeks later after finishing the book, and this time, the library has remodeled the catalog. Kevin makes a search and is surprised to see that there is now a dropdown of suggested searches as he types into the search bar. He recognizes the title as opposed to having to spell it correctly and can easily click on the book title. Kevin feels this is much easier and is eager to return to the library again. 
 
 
 ## Wireframe and Graphic Design Element Variations 
