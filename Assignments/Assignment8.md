@@ -32,7 +32,12 @@ Aside from color, I tried to keep consistent with interactive components through
 The font is Lato, which is a sans serif font that is generally easy to read. I tried to keep the spacing even and consistent throughout by meticulously measuring spaces. The font does not get too small and is bolded where appropriate to draw more attention. 
 
 #### One image with the wireflow with graphic design
-<img width="720" alt="Screen Shot 2020-03-02 at 4 45 44 PM" src="https://user-images.githubusercontent.com/52383057/75731735-5134de80-5ca5-11ea-9330-c2e7b9d7acad.png">
+
+<img width="1080" alt="Screen Shot 2020-03-03 at 1 31 03 AM" src="https://user-images.githubusercontent.com/52383057/75761931-c2e54a80-5cee-11ea-864d-82d0c5417eba.png">
+
+*alternatively from draw.io*
+![Draw.io](https://user-images.githubusercontent.com/52383057/75762087-fc1dba80-5cee-11ea-8a88-64b3f4bd0097.jpg) 
+
 
 #### Link to the interactive prototype or embed window that shows the prototype. If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes. 
 
@@ -41,6 +46,7 @@ From some user feedback, they felt that the bookmark and reserve buttons were to
 New version: 
 https://projects.invisionapp.com/prototype/ck729mv5p002xna01f3k06q6t/play (interactive)
 https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t (slides)
+
 Old version: 
 https://projects.invisionapp.com/prototype/ck729mv5p002xna01f3k06q6t/play (interactive)  
 https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t (slides)
