@@ -43,6 +43,7 @@ Kevin is an elementary school student who loves to watch movies with his parents
 
 ## Wireframe and Graphic Design Element Variations 
 This is the older version of my wireframe. (Revised version in the optional evaluation and revision history.)
+
 [Read more about the Low-Fidelity prototype.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment6.md) 
 
 ## Low-Fidelity Prototype: Wireflow
@@ -74,7 +75,7 @@ E) Manage your account.
 ## Optional Evaluation and Revision History 
 
 #### Assignment 7 (Low-Fidelity Prototype Revision)
-After doing the high-fidelity prototype, I decided to resketch the low-fidelity prototype 
+After doing the high-fidelity prototype, I decided to resketch the low-fidelity prototype. (Will embed later).
 
 #### Assignment 8 (High-Fidelity Prototype Revision)
 Within the high-fidelity prototype, I received peer feedback, so I updated my high-fidelity prototype before submission. From the user feedback, they felt that the bookmark and reserve buttons were too crowded, the color scheme could be a little less flat, and the contact pages seemed confusing at the end. I first changed the bookmark and reserve buttons to links. The buttons were clunky and I could achieve a similar effect but in a neater way. The color contrast also was not good, so by changing the buttons to underlined text, users received it better. I also added some accents of blue to break up all the orange and brown, and I feel that the blue goes well with these colors. Finally, I moved the contact slides to the beginning, since the user felt that the end of the search should be the end of the prototype. After my own review, I adjusted the name and the home page to better reflect the purpose of the website and the theme of the project (community). 
