@@ -88,6 +88,12 @@ Old version:
 https://projects.invisionapp.com/prototype/ck729mv5p002xna01f3k06q6t/play (interactive)  
 https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t (slides)
 
+#### Accessibility Audit
+
+I ran the accessibility audit on a few slides. The only aspect that failed the audit was the "share" button, but that is a part of InVision, not a part of the prototype. Otherwise, the contrast ratio seems good. 
+
+<img width="1440" alt="Screen Shot 2020-03-03 at 11 26 20 AM" src="https://user-images.githubusercontent.com/52383057/75811802-f1d8dc00-5d41-11ea-8eb8-2c8f70dd005a.png">
+
 ## Pitch Video 
 
 ## Conclusion: What did you learn throughout the process?
