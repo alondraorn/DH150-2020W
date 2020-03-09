@@ -69,9 +69,18 @@ D) Search for a harry potter book using the field limit of your option (there is
 E) Manage your account.
 - i) Renew books.
 
-![Wireflow](https://user-images.githubusercontent.com/52383057/75761931-c2e54a80-5cee-11ea-864d-82d0c5417eba.png) 
+Wireflow |
+-----------|
+![Wireflow](https://user-images.githubusercontent.com/52383057/75761931-c2e54a80-5cee-11ea-864d-82d0c5417eba.png)  
 
-[Link to Hi-Fi Prototype](https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t)
+Representative Screens |
+-----------|
+![RepresentativeScreens](https://user-images.githubusercontent.com/52383057/75729329-48d9a500-5c9f-11ea-992a-3cf929d0da7a.png)
+
+[Link to High Fidelity Prototype](https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t/play/dcdd37ca)|
+-----------|
+[![Link to Hi-Fi Prototype](https://user-images.githubusercontent.com/52383057/76192288-adfd3100-619e-11ea-8f02-1c28459810e5.png)](https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t/play/dcdd37ca)
+
 [Read more about the High-Fidelity Prototype.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment8.md). 
 
 ## Optional Evaluation and Revision History 
@@ -106,3 +115,4 @@ I ran the accessibility audit on a few slides. The only aspect that failed the a
 
 ## Conclusion: What did you learn throughout the process?
 
+I am glad I got to experience the steps of user experience design from beginning to end. By breaking up the steps into weekly  assignments, I was able to study the theory behind the assignment and apply it. I took the theory along with my own observations from the heuristic evaluations to build a prototype that I feel addresses many of the issues that I saw. I learned that user experience design is not always linear. I was always editing my work as I went because I wanted to approach things from a user perspective as much as possible. I also received feedback from peers (usability testing, contextual inquiry, prototype feedback), which led me to re-evaluate things and fix them as needed. Even with a "finished" product, there can always be more feedback to better usability and utility. I enjoyed getting familiar with different applications such as Invision Studio and Brackets because the tasks reinforced user experience principles as I did them. Overall, this process taught me a lot about how to implement the user experience design process. 
