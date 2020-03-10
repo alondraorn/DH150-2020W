@@ -15,7 +15,7 @@ Alhambra Civic Center Library Website | Monterey Park Bruggemeyer Library Websit
 ![Alhambra Civic Center Library Website](https://user-images.githubusercontent.com/52383057/72326705-8ab57a00-3664-11ea-8d13-47fa10ae4836.png)|![Monterey Park Bruggemeyer Library Website](https://user-images.githubusercontent.com/52383057/72327028-25ae5400-3665-11ea-9d98-08e07e860cba.png)
 
 ## Competitor Analysis: Usability Testing
-For Usability Testing, I had a user test out the [Monterey Park Bruggemeyer Library website](http://library.montereypark.ca.gov/). I have asked a user to complete three tasks on the library website: 1) finding a book using keyword (using filter features), 2) finding a book using subject and 3) finding library contact information. During this pilot test, the test user was able to finish all three tasks. I tried to organize tasks 1 and 2 to compare the keyword and subject search features, and the test user finished the first two with relative ease, but had some trouble with the third. The user had the same difficulty that I did when trying to find the contact information, but gave up relatively earlier than I did before trying again.  
+For Usability Testing, I had a user test out the [Monterey Park Bruggemeyer Library website](http://library.montereypark.ca.gov/). I asked a user to complete three tasks on the library website: 1) find a book using keyword (using filter features), 2) find a book using subject and 3) find library contact information. During this pilot test, the test user was able to finish all three tasks. I tried to organize tasks 1 and 2 to compare the keyword and subject search features, and the test user finished the first two with relative ease, but had some trouble with the third. The user had the same difficulty that I did when trying to find the contact information, but gave up relatively earlier than I did before trying again.  
 [Read more about the Usability Testing.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment2.md)
 
 [![Usability Testing Video](http://i3.ytimg.com/vi/VVIqLFDeKEQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=VVIqLFDeKEQ)
@@ -97,12 +97,12 @@ Wireflow:
 Within the high-fidelity prototype, I received peer feedback, so I updated my high-fidelity prototype before submission. From the user feedback, they felt that the bookmark and reserve buttons were too crowded, the color scheme could be a little less flat, and the contact pages seemed confusing at the end. I first changed the bookmark and reserve buttons to links. The buttons were clunky and I could achieve a similar effect but in a neater way. The color contrast also was not good, so by changing the buttons to underlined text, users received it better. I also added some accents of blue to break up all the orange and brown, and I feel that the blue goes well with these colors. Finally, I moved the contact slides to the beginning, since the user felt that the end of the search should be the end of the prototype. After my own review, I adjusted the name and the home page to better reflect the purpose of the website and the theme of the project (community). 
 
 New version: 
-https://projects.invisionapp.com/prototype/ck729mv5p002xna01f3k06q6t/play (interactive)
-https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t (slides)
+[interactive](https://projects.invisionapp.com/prototype/ck729mv5p002xna01f3k06q6t/play)
+[slides](https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t)
 
 Old version: 
-https://projects.invisionapp.com/prototype/ck729mv5p002xna01f3k06q6t/play (interactive)  
-https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t (slides)
+[interactive](https://projects.invisionapp.com/prototype/ck729mv5p002xna01f3k06q6t/play)
+[slides](https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t)
 
 #### Accessibility Audit
 
