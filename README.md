@@ -7,7 +7,6 @@ The Monterey Park Community Library is a project intended to encourage library p
 Libraries are important beacons for community development. Libraries provide free and open access to various resources that will satisfy the educational, informational, and cultural needs of users. Difficult library website interfaces can dissuade users from returning to libraries. After evaluation of other websites, shortcomings can be gauged so this project can be as satisfying, accessible, and as efficient as possible. By offering a library website that will improve user satisfaction, users are encouraged to gather at libraries to foster community and enhance their learning. 
 
 ## Competitor Analysis: Heuristic Evaluation
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 I evaluated the Alhambra Civic Center Library and the Monterey Park Bruggemeyer Library websites. I chose these websites because I frequented these libraries as a child. I followed Jakob Nielsen's 10 Usability Heuristics for User Interface Design to identify usability problems and their severity. For the Alhambra Library website, I felt that there were some issues with clarity and finding help. For the Monterey Park Library website, I felt there were some issues with consistency in labelling which can confuse users, as well as a lack of an easily accessible contact page.  
 [Read more about the Heuristic Evaluation.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment1.md)
 
@@ -81,7 +80,7 @@ Representative Screens |
 -----------|
 [![Link to Hi-Fi Prototype](https://user-images.githubusercontent.com/52383057/76192288-adfd3100-619e-11ea-8f02-1c28459810e5.png)](https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t/play/dcdd37ca)
 
-[Read more about the High-Fidelity Prototype.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment8.md). 
+[Read more about the High-Fidelity Prototype.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment8.md) 
 
 ## Optional Evaluation and Revision History 
 
