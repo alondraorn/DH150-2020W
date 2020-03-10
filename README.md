@@ -18,7 +18,7 @@ Alhambra Civic Center Library Website | Monterey Park Bruggemeyer Library Websit
 For Usability Testing, I had a user test out the [Monterey Park Bruggemeyer Library website](http://library.montereypark.ca.gov/). I have asked a user to complete three tasks on the library website: 1) finding a book using keyword (using filter features), 2) finding a book using subject and 3) finding library contact information. During this pilot test, the test user was able to finish all three tasks. I tried to organize tasks 1 and 2 to compare the keyword and subject search features, and the test user finished the first two with relative ease, but had some trouble with the third. The user had the same difficulty that I did when trying to find the contact information, but gave up relatively earlier than I did before trying again.  
 [Read more about the Usability Testing.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment2.md)
 
-[![Usability Testing Video](http://i3.ytimg.com/vi/VVIqLFDeKEQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=VVIqLFDeKEQ "")
+[![Usability Testing Video](http://i3.ytimg.com/vi/VVIqLFDeKEQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=VVIqLFDeKEQ)
 
 ### User Research: Contextual Inquiry  
 In the practice of contextual inquiries, users are the ones working through the project and the interviewers use open ended question to understand the users. I asked a user to work through three objectives: to complete a search, find a library event, and obtain library information (hours, address, contact), but allowed the user to work through the website on their own and encouraged the user to talk aloud. I would ask the user questions from my contextual inquiry script. 
@@ -42,7 +42,7 @@ Kevin is an elementary school student who loves to watch movies with his parents
 
 ## Wireframe and Graphic Design Element Variations 
 This is the older version of my wireframe. (Revised version in the optional evaluation and revision history.)
-![Low-Fi](https://user-images.githubusercontent.com/52383057/74639616-0fdbf500-5123-11ea-933d-86aa8b1bf9b9.jpg). 
+![Low-Fi](https://user-images.githubusercontent.com/52383057/74639616-0fdbf500-5123-11ea-933d-86aa8b1bf9b9.jpg)  
 
 [Read more about the Low-Fidelity prototype.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment6.md) 
 
