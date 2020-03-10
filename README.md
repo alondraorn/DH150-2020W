@@ -25,7 +25,7 @@ In the practice of contextual inquiries, users are the ones working through the 
 In the end, I managed to learn the user's motivations for going to libraries and using library websites, which was to enhance the user's academic research and make future library trips more convenient. I was able to see what the user would want from the website and the user's difficulties while also mentally comparing how I went through the tasks.  
 [Read more about the Contextual Inquiry.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment4.md)
 
-[![Contextual Inquiry Video](http://i3.ytimg.com/vi/_o_HuCfVM1s/maxresdefault.jpg)](https://youtu.be/_o_HuCfVM1s). 
+[![Contextual Inquiry Video](http://i3.ytimg.com/vi/_o_HuCfVM1s/maxresdefault.jpg)](https://youtu.be/_o_HuCfVM1s)  
 
 ## UX storytelling: Personas + Scenarios
 Personas are archetypical users whose goals and personality characteristics represent the needs of target users of the design. Each persona has an empathy map, which is a visualization used to articulate what a user says, thinks, does, feels, and works towards. Scenarios define when, where, and how the story of the persona takes place. It tracks the behavior and thoughts of the user as a sequence of events (journey map). I created three personas and scenarios based on target users of the library website and gave them each empathy maps, scenarios, and journey maps. Each user has a specific goal and improved features of the library website can help them achieve them.  
