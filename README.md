@@ -21,7 +21,7 @@ For Usability Testing, I had a user test out the [Monterey Park Bruggemeyer Libr
 [![Usability Testing Video](http://i3.ytimg.com/vi/VVIqLFDeKEQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=VVIqLFDeKEQ)
 
 ### User Research: Contextual Inquiry  
-In the practice of contextual inquiries, users are the ones working through the project and the interviewers use open ended question to understand the users. I asked a user to work through three objectives: to complete a search, find a library event, and obtain library information (hours, address, contact), but allowed the user to work through the website on their own and encouraged the user to talk aloud. I would ask the user questions from my contextual inquiry script. 
+In the practice of contextual inquiries, users are the ones working through the project and the interviewers use open ended questions to understand the users. I asked a user to work through three objectives: to complete a search, find a library event, and obtain library information (hours, address, contact), but allowed the user to work through the website on their own and encouraged the user to talk aloud. I would ask the user questions from my contextual inquiry script. 
 In the end, I managed to learn the user's motivations for going to libraries and using library websites, which was to enhance the user's academic research and make future library trips more convenient. I was able to see what the user would want from the website and the user's difficulties while also mentally comparing how I went through the tasks.  
 [Read more about the Contextual Inquiry.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment4.md)
 
