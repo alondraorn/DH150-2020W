@@ -35,8 +35,8 @@ Example Persona | Example Journey Map
 -----------|-----------
 ![Example Persona](https://user-images.githubusercontent.com/52383057/74217143-81b3ca80-4c5b-11ea-9b4b-9253cadfd59b.png)|![Example Journey Map](https://user-images.githubusercontent.com/52383057/74217179-9abc7b80-4c5b-11ea-88d3-00ccc48f5002.png)
 
-Example Scenario |
------------|
+Example Scenario | 
+-----------| 
 Kevin is an elementary school student who loves to watch movies with his parents. He has recently watched the first Harry Potter film and wants to read the Harry Potter books. He goes to the library with his parents to search for the first Harry Potter book. He misspells Harry Potter as Hairy Potter, but he does not catch his own mistake. Since it is spelled wrong, he doesn’t obtain any search results, but Kevin is confused. He has to ask his father to help him with the search and they check out the first book together. Kevin comes back two weeks later after finishing the book, and this time, the library has remodeled the catalog. Kevin makes a search and is surprised to see that there is now a dropdown of suggested searches as he types into the search bar. He recognizes the title as opposed to having to spell it correctly and can easily click on the book title. Kevin feels this is much easier and is eager to return to the library again. 
 
 
@@ -68,16 +68,16 @@ D) Search for a harry potter book using the field limit of your option (there is
 E) Manage your account.
 - i) Renew books.
 
-Wireflow |
------------|
+Wireflow | 
+-----------| 
 ![Wireflow](https://user-images.githubusercontent.com/52383057/75761931-c2e54a80-5cee-11ea-864d-82d0c5417eba.png)  
 
-Representative Screens |
------------|
+Representative Screens | 
+-----------| 
 ![RepresentativeScreens](https://user-images.githubusercontent.com/52383057/75729329-48d9a500-5c9f-11ea-992a-3cf929d0da7a.png)
 
-[Link to High Fidelity Prototype](https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t/play/dcdd37ca)|
------------|
+[Link to High Fidelity Prototype](https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t/play/dcdd37ca)| 
+-----------| 
 [![Link to Hi-Fi Prototype](https://user-images.githubusercontent.com/52383057/76192288-adfd3100-619e-11ea-8f02-1c28459810e5.png)](https://projects.invisionapp.com/prototype/HighFidelityPrototype-ck729mv5p002xna01f3k06q6t/play/dcdd37ca)
 
 [Read more about the High-Fidelity Prototype.](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment8.md) 
