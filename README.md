@@ -111,6 +111,7 @@ I ran the accessibility audit on a few slides. The only aspect that failed the a
 <img width="1440" alt="Screen Shot 2020-03-03 at 11 26 20 AM" src="https://user-images.githubusercontent.com/52383057/75811802-f1d8dc00-5d41-11ea-8eb8-2c8f70dd005a.png">
 
 ## Pitch Video 
+[![Pitch Video](http://i3.ytimg.com/vi/N5mVlHN99YY/maxresdefault.jpg)](https://youtu.be/N5mVlHN99YY)  
 
 ## Conclusion: What did you learn throughout the process?
 
